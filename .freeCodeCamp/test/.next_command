@@ -54,3 +54,30 @@ git commit -m "chore: add username check and database insert logic"
 git add .
 git commit -m "test: add username check and database insert logic"
 git log --oneline
+git add .
+git commit -m "refactor: add username check and database insert logic"
+git log --oneline
+git rebase
+git branch
+git rebase master
+git checkout main
+git branch -m master main
+git btanch
+git btanch
+git branch
+git rebase main
+git log --oneline
+git rebase -i 2c22f0f^
+git log --oneline
+git rebase -i 2c22f0f^
+git log --oneline
+git add .
+git commit -m "feat: a d username check and database insert logic"
+git one --oneline
+git log --oneline
+git add .
+git commit -m "refactor: a d username check and database insert logic"
+git add .
+git commit -m "chore: a d username check and database insert logic"
+git add .
+git commit -m "test: a d username check and database insert logic"
